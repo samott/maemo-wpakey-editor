@@ -1,0 +1,18 @@
+wpakey-editor (0.9-2) stable; urgency=low
+
+  * Fix icon.
+
+ -- Shaun Amott <shaun@inerd.com>  Wed, 26 Jan 2011 01:31:00 +0100
+
+wpakey-editor (0.9-1) stable; urgency=low
+
+  * Fix depends and icon in control file.
+
+ -- Shaun Amott <shaun@inerd.com>  Wed, 16 Jun 2010 20:22:05 +0100
+
+wpakey-editor (0.9) stable; urgency=low
+
+  * Initial release
+
+ -- Shaun Amott <shaun@inerd.com>  Mon, 14 Jun 2010 01:57:12 +0100
+

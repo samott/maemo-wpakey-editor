@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=0.9
+Name=WPA keys
+Comment=Configure WPA-PSK keys; with 32-byte hex key support
+Type=HildonControlPanelPlugin
+Icon=wpakey-editor
+X-control-panel-plugin=wpakey-editor.so
+Categories=connectivity
